@@ -1,9 +1,9 @@
 # Welcome-Git
 
-# 👋 ¡Hola, soy [Tu Nombre]!
+# 👋 ¡Hola, soy Carlos Javier Pérez!
 
 ¡Bienvenid@ a mi perfil de GitHub! 🚀  
-Actualmente estoy haciendo un **bootcamp intensivo de desarrollo (600h)** para potenciar mis habilidades y conectar el mundo del desarrollo web con la ciencia de datos y el diseño.
+Actualmente estoy haciendo un **Bootcamp intensivo de Desarrollo Web Full Stack con IA (600h)** para potenciar mis habilidades.
 
 ---
 
